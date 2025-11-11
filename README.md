@@ -58,8 +58,8 @@ Chỉ 3 bước để kích hoạt cỗ máy của bạn.
 
 | Thiết Bị | Trình Duyệt | Link Cài Đặt Chính Thức |
 | :--- | :--- | :--- |
-| **PC/Laptop** | Chrome, Edge, Firefox | [Tải Tampermonkey (Bản Chính)](https://chromewbstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
-| **Mobile** | Kiwi Browser, v.v. | [Tải Tampermonkey (Bản Legacy)](https://chromewbstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn) |
+| **PC/Laptop** | Chrome, Edge, Firefox | [Tải Tampermonkey (Bản Chính)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi) |
+| **Mobile** | Kiwi Browser, v.v. | [Tải Tampermonkey (Bản Legacy)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi) |
 
 <br>
 
