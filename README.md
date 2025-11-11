@@ -45,7 +45,7 @@ Thay vì danh sách, đây là kiến trúc cốt lõi của **Locket Pro**.
 "Một hình ảnh thay vạn lời nói." Dưới đây là cách Locket Pro biến đổi công việc của bạn.
 
 <p align="center">
-  <img src="\https://sf-static.upanhlaylink.com/img/image_202511111bb9bb78a88869b2a7518277c1221979.jpg" alt="Locket Pro Automation Demo" width="80%">
+  <img src="https://sf-static.upanhlaylink.com/img/image_202511111bb9bb78a88869b2a7518277c1221979.jpg" alt="Locket Pro Automation Demo" width="80%">
 </p>
 
 ---
