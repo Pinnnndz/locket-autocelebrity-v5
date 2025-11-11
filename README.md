@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/0a0a0a/ffffff?text=Locket+Pro+Automation+v13" alt="Locket Pro Automation Banner" width="100%"/>
+  <img src="https://sf-static.upanhlaylink.com/img/image_2025111131627f8cd9b5abe48de7b52d038804f8.jpg" alt="Locket Pro Automation Banner" width="75%"/>
 </p>
 
 <p align="center">
