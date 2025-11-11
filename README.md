@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/Pinnnndz/locket-autocelebrity-v5?style=for-the-badge&label=PHIÊN BẢN&color=DE3163" alt="Version">
+  <a href="https://github.com/Pinnnndz/locket-autocelebrity-v4/releases"><img alt="License" src="https://img.shields.io/badge/Version-5.3-blue?style=flat-square"></a>
   <img src="https://img.shields.io/badge/Trạng thái-ONLINE-32CD32?style=for-the-badge&logo=power-automate&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-007BFF?style=for-the-badge" alt="License">
 </p>
